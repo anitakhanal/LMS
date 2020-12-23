@@ -1,0 +1,75 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+   
+}
+body{
+    height:100vh;
+    width:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: 'Ubuntu', sans-serif;
+    background-image:linear-gradient(rgba(36, 15, 15, 0.698), rgba(187, 183, 183, 0.219)),url('img/img5.jpg');
+   
+
+}
+.wrapper{
+min-height:93vh;
+}
+.navbar .image{
+    width:100px;
+    height: 80px;
+}
+.navbar .image img{
+    height:80px;
+    width: 100%;
+    border-radius: 50px;
+   
+}
+.navbar .navbar-brand{
+    color: white;
+    padding: 19px;
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+
+   
+
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    font-size:1.5rem;
+    color:white;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.box{
+    height:250px;
+    width: 350px;
+    background-color: rgba(0, 0, 0, 0.63);
+    margin: 70px auto;
+    text-align:center;
+    color:white;
+
+}
+/* ...................... */
+.form-group label{
+    color:white;
+}
+/* ................... */
+.library th, td{
+    color:white;
+
+}
+.footer
+{
+    background:black;
+    text-align: center;
+    padding: 5px;
+}
+.footer p
+{
+    color: white;
+}
+
